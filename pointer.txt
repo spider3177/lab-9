@@ -1,0 +1,33 @@
+Q1. printing output
+	*p3=S		
+	*p3=T , p3=6940	
+	*p1=S , p1=6940	
+
+
+
+Q2.D.*p=75
+
+
+
+
+Q3.pointer p is double type.so it should point to a double variable.
+   but it is made to point to a char variable.
+
+
+
+
+
+Q4.  temp='A'
+     temp='C'
+     temp='B'
+     temp='A'
+
+	ptr=4435
+	temp='B'
+	temp='C'
+
+	ptr=4434
+	temp='B'
+	temp='C'
+	temp='C'
+	temp='C'
